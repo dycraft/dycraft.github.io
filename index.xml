@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DYCARFT</title>
-    <link>http://example.com/</link>
+    <link>https://dycraft.github.io/</link>
     <description>Recent content on DYCARFT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Jun 2019 16:30:57 +0800</lastBuildDate>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dycraft.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spring Boot Demo</title>
-      <link>http://example.com/project/spring-boot-demo/</link>
+      <link>https://dycraft.github.io/project/spring-boot-demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/project/spring-boot-demo/</guid>
+      <guid>https://dycraft.github.io/project/spring-boot-demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.com/post/my-first-post/</link>
+      <link>https://dycraft.github.io/post/my-first-post/</link>
       <pubDate>Sun, 23 Jun 2019 16:30:57 +0800</pubDate>
       
-      <guid>http://example.com/post/my-first-post/</guid>
+      <guid>https://dycraft.github.io/post/my-first-post/</guid>
       <description>My First Post First line</description>
     </item>
     
