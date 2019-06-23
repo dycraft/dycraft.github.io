@@ -3,17 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.com/project/spring-boot-demo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2019-06-23T16:30:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/my-first-post/</loc>
+    <lastmod>2019-06-23T16:30:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2019-06-23T16:30:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://example.com/project/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/java/</loc>
     <priority>0</priority>
   </url>
   
